@@ -32,11 +32,11 @@ const About = () => {
               </div>
               <div className="flex">
                 <span className="text-secondary font-medium w-24">Email:</span>
-                <span>dhanesh@example.com</span>
+                <span>dhaneshthaninki@gmail.com</span>
               </div>
               <div className="flex">
                 <span className="text-secondary font-medium w-24">Phone:</span>
-                <span>+1234567890</span>
+                <span>+919573434598</span>
               </div>
               <div className="flex">
                 <span className="text-secondary font-medium w-24">Role:</span>
