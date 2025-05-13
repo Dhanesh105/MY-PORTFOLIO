@@ -44,7 +44,7 @@ const About = () => {
               </div>
               <div className="flex">
                 <span className="text-secondary font-medium w-24">Focus:</span>
-                <span>Backend, Web, Android</span>
+                <span>Full Stack Web Development, Web,Android</span>
               </div>
             </div>
           </div>
