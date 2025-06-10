@@ -58,7 +58,7 @@ const Projects = () => {
         "Admin dashboard for product management"
       ],
       github: "https://github.com/Dhanesh105/Shopping_app-MERN",
-      demo: "#"
+      demo: "https://luxe-shop-lac.vercel.app/"
     },
     {
       title: "JWT Authentication System",
