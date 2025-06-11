@@ -29,7 +29,7 @@ const Projects = () => {
         "Modern UI with smooth animations and transitions",
         "Mobile-first shopping experience"
       ],
-      github: "#",
+      github: "https://github.com/Dhanesh105/NEXT-WAVE",
       demo: "https://next-wave-ji3a.vercel.app/"
     },
     {
@@ -43,8 +43,8 @@ const Projects = () => {
         "Candidate recommendation engine",
         "Analytics dashboard for recruitment metrics"
       ],
-      github: "https://github.com/Dhanesh105/AI-Recruitment-Tool",
-      demo: "#"
+      github: "https://github.com/Dhanesh105/Talent-match",
+      demo: "https://talent-match-eosin.vercel.app/"
     },
     {
       title: "Shopping Application",
@@ -57,7 +57,7 @@ const Projects = () => {
         "User profile and order history",
         "Admin dashboard for product management"
       ],
-      github: "https://github.com/Dhanesh105/Shopping_app-MERN",
+      github: "https://github.com/Dhanesh105/Luxe-Shop",
       demo: "https://luxe-shop-lac.vercel.app/"
     },
     {
