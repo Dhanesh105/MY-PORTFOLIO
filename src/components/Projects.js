@@ -71,8 +71,8 @@ const Projects = () => {
         "Role-based access control",
         "Token refresh mechanism"
       ],
-      github: "https://github.com/Dhanesh105/User-Authentication-using-JWT",
-      demo: "#"
+      github: "https://github.com/Dhanesh105/User-Auth-JWT",
+      demo: "https://secure-auth-sigma.vercel.app/"
     },
   ];
 
