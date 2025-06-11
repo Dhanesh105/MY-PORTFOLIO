@@ -15,8 +15,8 @@ const Projects = () => {
         "Progress tracking and status updates",
         "Responsive design for all devices"
       ],
-      github: "https://github.com/Dhanesh105/Task-Management",
-      demo: "#"
+      github: "https://github.com/Dhanesh105/task-manager",
+      demo: "https://task-manager-teal-alpha.vercel.app/"
     },
     {
       title: "Next Wave E-commerce Platform",
