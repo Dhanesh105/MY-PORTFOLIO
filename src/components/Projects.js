@@ -5,34 +5,6 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 const Projects = () => {
   const projects = [
     {
-      title: "Task Management System",
-      description: "A comprehensive task management application that allows users to create, organize, and track tasks efficiently, built with the MERN stack.",
-      technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Redux", "JWT"],
-      features: [
-        "User authentication and authorization",
-        "Task creation, updating, and deletion",
-        "Task categorization and priority setting",
-        "Progress tracking and status updates",
-        "Responsive design for all devices"
-      ],
-      github: "https://github.com/Dhanesh105/task-manager",
-      demo: "https://task-manager-teal-alpha.vercel.app/"
-    },
-    {
-      title: "Next Wave E-commerce Platform",
-      description: "A modern e-commerce platform built with Next.js and deployed on Vercel, featuring a clean UI for product discovery and shopping.",
-      technologies: ["Next.js", "React", "Vercel", "Tailwind CSS", "JavaScript", "Responsive Design"],
-      features: [
-        "Fast static page generation with dynamic capabilities",
-        "Responsive product catalog and shopping interface",
-        "Optimized for performance with Vercel's Edge Network",
-        "Modern UI with smooth animations and transitions",
-        "Mobile-first shopping experience"
-      ],
-      github: "https://github.com/Dhanesh105/NEXT-WAVE",
-      demo: "https://next-wave-ji3a.vercel.app/"
-    },
-    {
       title: "AI-based Recruitment Platform",
       description: "An intelligent recruitment platform designed to automate candidate screening and matching using AI algorithms, built with the MERN stack.",
       technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Machine Learning", "Natural Language Processing", "Redux"],
@@ -73,6 +45,34 @@ const Projects = () => {
       ],
       github: "https://github.com/Dhanesh105/User-Auth-JWT",
       demo: "https://secure-auth-sigma.vercel.app/"
+    },
+        {
+      title: "Task Management System",
+      description: "A comprehensive task management application that allows users to create, organize, and track tasks efficiently, built with the MERN stack.",
+      technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Redux", "JWT"],
+      features: [
+        "User authentication and authorization",
+        "Task creation, updating, and deletion",
+        "Task categorization and priority setting",
+        "Progress tracking and status updates",
+        "Responsive design for all devices"
+      ],
+      github: "https://github.com/Dhanesh105/task-manager",
+      demo: "https://task-manager-teal-alpha.vercel.app/"
+    },
+    {
+      title: "Next Wave E-commerce Platform",
+      description: "A modern e-commerce platform built with Next.js and deployed on Vercel, featuring a clean UI for product discovery and shopping.",
+      technologies: ["Next.js", "React", "Vercel", "Tailwind CSS", "JavaScript", "Responsive Design"],
+      features: [
+        "Fast static page generation with dynamic capabilities",
+        "Responsive product catalog and shopping interface",
+        "Optimized for performance with Vercel's Edge Network",
+        "Modern UI with smooth animations and transitions",
+        "Mobile-first shopping experience"
+      ],
+      github: "https://github.com/Dhanesh105/NEXT-WAVE",
+      demo: "https://next-wave-ji3a.vercel.app/"
     },
   ];
 
