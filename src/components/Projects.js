@@ -19,6 +19,22 @@ const Projects = () => {
       demo: "https://talent-match-eosin.vercel.app/"
     },
     {
+      title: "Video Enhancement Platform",
+      description: "A full-stack web application that enhances video quality using MATLAB's advanced image processing capabilities. The platform allows users to upload videos and apply professional-grade enhancements including stabilization, denoising, super-resolution, and contrast improvement through an intuitive web interface.",
+      technologies: ["Node.js", "Express.js", "MATLAB", "HTML5", "CSS3", "JavaScript", "Multer"],
+      features: [
+          "Video file upload with drag-and-drop interface",
+          "Server-side video processing using MATLAB",
+          "Automatic video stabilization using optical flow",
+          "Non-local means denoising for noise reduction",
+          "2x super-resolution upscaling",
+          "Contrast enhancement using histogram equalization",
+          "Responsive design with modern UI/UX",
+           "Secure file handling with automatic cleanup"
+        ],
+        github: "https://github.com/Dhanesh105/Video-Enhancer"
+    },
+    {
       title: "Shopping Application",
       description: "A full-stack e-commerce application built with the MERN Stack featuring secure user authentication, dynamic product catalog, shopping cart functionality, and order management.",
       technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Redux", "Tailwind CSS"],
