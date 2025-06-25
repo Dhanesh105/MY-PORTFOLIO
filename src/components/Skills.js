@@ -1,7 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaNodeJs, FaReact, FaDatabase, FaServer, FaMobile, FaLock } from 'react-icons/fa';
-import { SiMongodb, SiExpress, SiJavascript, SiPython, SiC, SiTailwindcss, SiJsonwebtokens } from 'react-icons/si';
+import { SiMongodb, SiExpress, SiJavascript, SiPython, SiC, SiTailwindcss, SiJsonwebtokens, SiTypescript } from 'react-icons/si';
+import { DiPostgresql } from 'react-icons/di';
 
 const Skills = () => {
   const skillCategories = [
@@ -20,6 +21,8 @@ const Skills = () => {
         { name: "Express.js", icon: <SiExpress className="text-gray-400" size={40} /> },
         { name: "React.js", icon: <FaReact className="text-blue-400" size={40} /> },
         { name: "Node.js", icon: <FaNodeJs className="text-green-600" size={40} /> },
+        { name: "PostgreSQL", icon: <DiPostgresql className="text-blue-600" size={40} /> },
+        { name: "TypeScript", icon: <SiTypescript className="text-blue-500" size={40} /> },
       ]
     },
     {
